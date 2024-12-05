@@ -1,0 +1,1 @@
+print(f"Natija: {(float(input("1-sonni kiriting: "))**2+float(input("2-sonni kiriting: "))**2)/float(input("3-sonni kiriting: "))}")

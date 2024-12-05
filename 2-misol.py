@@ -1,0 +1,1 @@
+print(f"Siz {2024-int(input("Yoshingizni kiriting: "))}-yilda tug'ilgansiz.")

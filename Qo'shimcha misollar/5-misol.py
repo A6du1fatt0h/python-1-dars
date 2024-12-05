@@ -1,0 +1,1 @@
+print(f"Natija: {input("Ismingizni kiriting ")[::-1]}")
